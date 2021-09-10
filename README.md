@@ -1,0 +1,1 @@
+This is a ruby project for "The Odin Project" bootcamp.
